@@ -84,7 +84,7 @@ layout: default
       <div class="col-md-8 text-center">
         <h2 class="text-black h1 site-section-heading text-center">Our Projects</h2>
         <p class="lead">We've had the opportunity to work in many different industries ranging from an ambitious and growing tech startup to a local Alberta flight school. 
-          Here are a few examples of projects and clients that we are <span class="brand-color">#albertaproud</span> to work with!</p>
+          Here are a few examples of projects and clients that we are <span class="brand-color"><b>#albertaproud</b></span> to work with!</p>
       </div>
     </div>
 
@@ -224,7 +224,7 @@ layout: default
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-           <!-- <div><img src="images/person_3.jpg" alt="Image" class="w-50 img-fluid mb-3"></div> -->
+          <div><img src="assets/images/joyride-logo.jpg" alt="Image" class="w-50 img-fluid mb-3 bg-black"></div>
           <p>Matt Konigsmark | Co-Founder, <a href="https://wearejoyride.com">Joyride</a></p>
         </figure>
 
@@ -236,12 +236,12 @@ layout: default
 
         <blockquote class="mb-5">
           <p>&ldquo;Tuomas was a huge help with our digital marketing efforts, working on a wide variety of projects from web design, art, 
-            wiring in different components, and even producing youtube videos with animations. He's a go-to guy who's a big help, 
+            wiring in different components... He's a go-to guy who's a big help, 
             not just in technical ability but also in the friendly touch working directly with clients and partners on key projects.&rdquo;</p>
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-           <!-- <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div> -->
+           <div><img src="assets/images/haste-logo.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
           <p>Taric Mirza | Co-Founder, <a href="https://haste.net">Haste.net</a></p>
         </figure>
 
@@ -257,7 +257,7 @@ layout: default
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-          <!-- <div><img src="images/person_4.jpg" alt="Image" class="w-50 img-fluid mb-3"></div> -->
+          <div><img src="assets/images/long-logo.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
           <p>Natalie Long | Owner, <a href="https://longcreations.ca">LONG Creations</a></p>
         </figure>
 
@@ -421,29 +421,14 @@ layout: default
     </div>
 
     <div class="row">
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-        <div class="person text-center">
-          <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-          <h3>John Rooster</h3>
-          <p class="position text-muted">Co-Founder, President</p>
-          <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde
-            molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate
-            tempore suscipit inventore deserunt tenetur.</p>
-          <ul class="ul-social-circle">
-            <li><a href="#"><span class="icon-facebook"></span></a></li>
-            <li><a href="#"><span class="icon-twitter"></span></a></li>
-            <li><a href="#"><span class="icon-linkedin"></span></a></li>
-            <li><a href="#"><span class="icon-instagram"></span></a></li>
-          </ul>
-
-        </div>
-
+      <div class="col-md-3 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+       
       </div>
       <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
         <div class="person text-center">
           <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-          <h3>Tom Sharp</h3>
-          <p class="position text-muted">Co-Founder, COO</p>
+          <h3>Tuomas Wolkowski</h3>
+          <p class="position text-muted">Owner, Website Designer<br> & Digital Marketing Consultant</p>
           <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde
             molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate
             tempore suscipit inventore deserunt tenetur.</p>
@@ -457,22 +442,7 @@ layout: default
         </div>
 
       </div>
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
-        <div class="person text-center">
-          <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-          <h3>Winston Hodson</h3>
-          <p class="position text-muted">Marketing</p>
-          <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde
-            molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate
-            tempore suscipit inventore deserunt tenetur.</p>
-          <ul class="ul-social-circle">
-            <li><a href="#"><span class="icon-facebook"></span></a></li>
-            <li><a href="#"><span class="icon-twitter"></span></a></li>
-            <li><a href="#"><span class="icon-linkedin"></span></a></li>
-            <li><a href="#"><span class="icon-instagram"></span></a></li>
-          </ul>
-
-        </div>
+      <div class="col-md-3 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
 
       </div>
     </div>
