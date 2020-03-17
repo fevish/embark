@@ -70,8 +70,8 @@ layout: default
           </p>
           <ul class="list-unstyled ul-check primary">
             <li>Social Media Advertising</li>
-            <li>Paid Campaigns</li>
-            <li>Marketing &amp; SEO</li>
+            <li>Campaign Planning</li>
+            <li>Analytics & Data-Driven Marketing</li>
           </ul>
         </div>
       </div>
@@ -118,7 +118,7 @@ layout: default
           <img src="/assets/images/projects/hat-liquor-home.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
             <h2>Hat Liquor</h2>
-            <span class="category">Website Development and Hosting</span>
+            <span class="category">Website Design and Hosting</span>
           </div>
         </a>
       </div>
@@ -241,7 +241,7 @@ layout: default
       <div class="testimonial">
 
         <blockquote class="mb-5">
-          <p>&ldquo;..I’ve worked with Tuomas on several projects over the past two years,
+          <p>&ldquo;...I’ve worked with Tuomas on several projects over the past two years,
             and he is always a pleasure to work with. He is skilled, quick and dedicated to his craft.&rdquo;</p>
         </blockquote>
 
@@ -307,7 +307,13 @@ layout: default
           <div>
             <h3>Easy Website Design</h3>
             <h6>Our priority is making the website process easy and stress free for you.</h6>
-            <p>We have all the tools to get you started. Simply meet with us to discuss your business's website needs, and we'll take care of the rest!</p>          
+            <p>We have all the tools to get you started. Simply meet with us to discuss your business's website needs, and we'll take care of the rest!</p> 
+            <ul class="list-unstyled ul-check primary">
+              <li>Responsive Design</li>
+              <li>Fast turn around time</li>
+              <li>Design around your branding guidelines</li>
+              <li>Uniform look for consistent marketing</li>   
+            </ul>              
           </div>
 
         </div>
@@ -321,6 +327,12 @@ layout: default
             <h6>Sell Your Products or Services Online.</h6><p>eCommerce has come a long way in the past few years, and is one of the fastest growing revenue streams for
               many businesses. We'll create an online store that is incredibly user friendly that your customers will love.
             </p>
+            <ul class="list-unstyled ul-check primary">
+              <li>Sell Products or Services Online</li>
+              <li>Store Hosting and Maintenance</li>
+              <li>User friendly interface</li>
+              <li>Grow your revenue</li>   
+            </ul>  
           </div>
 
         </div>
@@ -330,7 +342,7 @@ layout: default
         <div class="unit-4 d-flex">
           <div class="unit-4-icon mr-4"><span class="text-primary icon-question_answer"></span></div>
           <div>
-            <h3>Website Hosting and Management</h3>
+            <h3>Hosting and Management</h3>
             <h6>We take security very seriously.</h6>
               <p>Every measure is taken to make sure your website is always functional, secure, and up to date.</p>
             <ul class="list-unstyled ul-check primary">
@@ -338,7 +350,6 @@ layout: default
               <li>Secure Socket Layer Encryption</li>
               <li>Domain Name + Renewal</li>
               <li>Website Maintenance</li>   
-              <li>Fast Content Changes</li>
             </ul>         
           </div>
 
@@ -389,7 +400,7 @@ layout: default
               <div class="unit-4-icon mr-4 mb-3"><span class="text-secondary icon-extension"></span></div>
               <div>
                 <h3>Creative Thinkers</h3>
-                <p>We are all creative beings by nature, but some of us have the opportunity to express this in thier work more than others. We approach projects
+                <p>We are creative beings by nature, but some of us have the opportunity to express this in thier work more than others. We approach projects
                   with a "fresh pair of eyes", and use data driven marketing to produce results.</p>
               </div>
             </div>
@@ -431,7 +442,7 @@ layout: default
           <img src="assets/images/tw-picture.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
           <h3>Tuomas Wolkowski</h3>
           <p class="position text-muted">Owner, Father, Husband</p>
-          <p class="mb-4">Father to three, Tuomas is a family man and aspiring entrepreneur with deep roots in tech, website design and marketing.</p>
+          <p class="mb-4">Father of three, Tuomas is a family man and aspiring entrepreneur with deep roots in tech, website design and marketing.</p>
           <ul class="ul-social-circle">
             <li><a href="#"><span class="icon-facebook"></span></a></li>
             <li><a href="#"><span class="icon-twitter"></span></a></li>

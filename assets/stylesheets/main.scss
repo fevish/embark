@@ -1,8 +1,10 @@
 ---
 ---
-$baseurl: '{{ site.baseurl }}';
-@import "style";
 @import "variables";
+$baseurl: '{{ site.baseurl }}';
+@import "bootstrap.min";
+@import "style";
+
 
 
 .flex-fix {
@@ -24,6 +26,6 @@ $baseurl: '{{ site.baseurl }}';
 }
 
 blockquote {
-    border-left: 3px solid #32dbc6;
+    border-left: 3px solid $brandcolor;
     padding: 0 0 0 25px;
 }
