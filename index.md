@@ -27,13 +27,13 @@ layout: default
         <div class="p-3 box-with-humber">
           <div class="number-behind">01.</div>
           <h2 class="text-primary">On Boarding</h2>
-          <p class="mb-4">We'll come to your office and <b>sit down in person</b> to discuss and review the condition of
+          <p class="mb-4">We'll come to your office and <b>sit down in person</b>* to discuss and review the condition of
             your current website.
             Next we will provide our recommendations and suggestions based off what we see.
           </p>
           <p>Don't have a website yet? We can help, see next section!</p>
           <ul class="list-unstyled ul-check primary">
-            <li>Face to Face meetings</li>
+            <li>Face to Face meetings*</li>
             <li>Assess current website</li>
             <li>Provide suggestions for improvement</li>
           </ul>
@@ -85,7 +85,7 @@ layout: default
       <div class="row text-white">
         <div class="col-md-8">
           <h2>Free 30 Minute Website Consultations</h2>
-          <h6 class="text-white">With the current recommended social distancing concerning COVID-19 (Coronavirus),
+          <h6><span style="color: #000;font-size: 1.5em;">* </span>With the current recommended social distancing concerning COVID-19 (Coronavirus),
             we are happy to accomodate meetings via phone, video conference, or even Facetime!</h6>
             </div>        
             <div class="col-md-2"></div>
