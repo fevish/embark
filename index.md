@@ -340,7 +340,7 @@ layout: default
       </div>
       <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="unit-4 d-flex">
-          <div class="unit-4-icon mr-4"><span class="text-primary icon-question_answer"></span></div>
+          <div class="unit-4-icon mr-4"><span class="text-primary icon-vpn_lock"></span></div>
           <div>
             <h3>Hosting and Management</h3>
             <h6>We take security very seriously.</h6>
@@ -444,10 +444,10 @@ layout: default
           <p class="position text-muted">Owner, Father, Husband</p>
           <p class="mb-4">Father of three, Tuomas is a family man and aspiring entrepreneur with deep roots in tech, website design and marketing.</p>
           <ul class="ul-social-circle">
-            <li><a href="#"><span class="icon-facebook"></span></a></li>
-            <li><a href="#"><span class="icon-twitter"></span></a></li>
-            <li><a href="#"><span class="icon-linkedin"></span></a></li>
-            <li><a href="#"><span class="icon-instagram"></span></a></li>
+            <li><a href="{{ site.facebook }}"><span class="icon-facebook"></span></a></li>
+            <li><a href="{{ site.twitter }}"><span class="icon-twitter"></span></a></li>
+            <!--<li><a href="{{ site.linkedin }}"><span class="icon-linkedin"></span></a></li> -->
+            <li><a href="{{ site.instagram }}"><span class="icon-instagram"></span></a></li>
           </ul>
 
         </div>
