@@ -29,3 +29,10 @@ blockquote {
     border-left: 3px solid $brandcolor;
     padding: 0 0 0 25px;
 }
+
+.testimonial {
+    blockquote {
+        border: none;
+        padding: 0 15px;
+    }
+}
