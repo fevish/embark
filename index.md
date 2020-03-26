@@ -163,8 +163,8 @@ layout: default
         <a href="/assets/images/projects/ww-rastaman.jpg" class="media-1" data-fancybox="gallery">
           <img src="/assets/images/projects/ww-rastaman.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
-            <h2>Landing Page</h2>
-            <span class="category">Canada Legalization Launch Page</span>
+            <h2>Canada Legalization Launch Page</h2>
+            <span class="category">Landing Page Concept</span>
           </div>
         </a>
       </div>
