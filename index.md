@@ -160,11 +160,11 @@ layout: default
         </a>
       </div>
       <div class="col-md-6 col-lg-4">
-        <a href="/assets/images/projects/ww-rangeland.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/ww-rangeland.jpg" alt="Image" class="img-fluid">
+        <a href="/assets/images/projects/ww-rastaman.jpg" class="media-1" data-fancybox="gallery">
+          <img src="/assets/images/projects/ww-rastaman.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
-            <h2>Rangeland Helicoptor</h2>
-            <span class="category">Website Management</span>
+            <h2>Landing Page</h2>
+            <span class="category">Canada Legalization Launch Page</span>
           </div>
         </a>
       </div>
@@ -405,11 +405,8 @@ layout: default
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
-
     </div>
   </div>
 </div>
