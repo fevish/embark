@@ -11,13 +11,13 @@
           <nav class="site-navigation position-relative text-right" role="navigation">
 
             <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-              <li><a href="#home-section" class="nav-link">Home</a></li>
-              <li><a href="#work-section" class="nav-link">Projects</a></li>
+              <li><a href={% if page.url == '/' %}"#home-section"{% else %}"{{ site.baseurl }}/#home-section"{% endif %} class="nav-link">Home</a></li>
+              <li><a href={% if page.url == '/' %}"#work-section"{% else %}"{{ site.baseurl }}/#work-section"{% endif %} class="nav-link">Projects</a></li>
               <li>
-                <a href="#services-section" class="nav-link">Services</a>
+                <a href={% if page.url == '/' %}"#services-section"{% else %}"{{ site.baseurl }}/#services-section"{% endif %} class="nav-link">Services</a>
               </li>
               <li>
-                <a href="#about-section" class="nav-link">About Us</a>
+                <a href={% if page.url == '/' %}"#about-section"{% else %}"{{ site.baseurl }}/#about-section"{% endif %} class="nav-link">About Us</a>
               </li>
               <!-- Dropdown Menu
               <li class="has-children">
@@ -28,7 +28,7 @@
                 </ul>
               </li>
             -->       
-              <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              <li><a href={% if page.url == '/' %}"#contact-section"{% else %}"{{ site.baseurl }}/#contact-section"{% endif %} class="nav-link">Contact</a></li>
             </ul>
           </nav>
         </div>

@@ -1,24 +1,21 @@
 ---
 layout: default
 ---
+<body style="background-color:#fafafa;">
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="site-section" style="margin:50px 0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+      <h1 style="font-size: 20em;
+      font-family: monospace;
+      font-weight: 800;">404</h1>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+      <p><strong>Oh No! The requested page could not be found..</strong></p>
+      <p>It's possible the link you clicked has been moved elsewhere, or that page no longer exists.</p>
+      <p>Please <a href="{{ site.baseurl }}/">return to the homepage</a> to find what you are looking for.</p>
+      <a class="btn btn-primary btn-md" style="margin-top: 50px;" href="{{ site.baseurl }}/">Return Home</a>
+      </div>
+    </div>
+  </div>
 </div>
