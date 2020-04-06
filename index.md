@@ -225,7 +225,7 @@ layout: default
   </div>
 </section>
 -->
-<section class="site-section testimonial-wrap">
+<section class="site-section testimonial-wrap" id="testimonials-section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8 text-center">
