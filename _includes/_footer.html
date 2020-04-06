@@ -8,18 +8,18 @@
           
           <div class="col-md-5">
             
-            <img src="/assets/images/embark-light.png" style="max-width:200px; margin-bottom:15px;">
+            <a href="{{ site.baseurl }}/"><img src="/assets/images/embark-light.png" style="max-width:200px; margin-bottom:15px;"></a>
             <p>From Medicine Hat to Calgary, our mission is to provide local businesses in Southern Alberta with an easy and comfortable go-to for their website and marketing consultant requirements. 
               We make every effort to accommodate our client's needs, and to provide a personalized marketing experience.</p>
           </div>
           <div class="col-md-3 ml-auto">
             <h2 class="footer-heading mb-4">Sections</h2>
             <ul class="list-unstyled">
-              <li><a href="#about-section">About Us</a></li>
-              <li><a href="#work-section">Projects</a></li>
-              <li><a href="#services-section">Services</a></li>
-              <li><a href="#testimonials-section">Testimonials</a></li>
-              <li><a href="#contact-section">Contact Us</a></li>
+              <li><a href={% if page.url == '/' %}"#about-section"{% else %}"{{ site.baseurl }}/#about-section"{% endif %} >About Us</a></li>
+              <li><a href={% if page.url == '/' %}"#work-section"{% else %}"{{ site.baseurl }}/#work-section"{% endif %} >Projects</a></li>
+              <li><a href={% if page.url == '/' %}"##services-section"{% else %}"{{ site.baseurl }}/#services-section"{% endif %} >Services</a></li>
+              <li><a href={% if page.url == '/' %}"#testimonials-section"{% else %}"{{ site.baseurl }}/#testimonials-section"{% endif %} >Testimonials</a></li>
+              <li><a href={% if page.url == '/' %}"#contact-section"{% else %}"{{ site.baseurl }}/#contact-section"{% endif %} >Contact Us</a></li>
             </ul>
           </div>
           <div class="col-md-3">
