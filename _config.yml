@@ -29,8 +29,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 markdown: kramdown
 
 plugins:
+    - jekyll-sitemap
     #   - jekyll-minifier
-    #   - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path:     "assets/**/**/**/**/*.pdf"
+    values:
+      sitemap:  false    
 
 host: 0.0.0.0
 
