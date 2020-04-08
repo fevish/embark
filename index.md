@@ -1,5 +1,8 @@
 ---
 layout: default
+redirect_from:
+  - /medicine-hat-web-design
+
 ---
 
 <div class="site-blocks-cover overlay" style="background-image: url({{ site.baseurl }}/assets/images/bg-3.jpg);"

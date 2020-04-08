@@ -30,6 +30,7 @@ markdown: kramdown
 
 plugins:
     - jekyll-sitemap
+    - jekyll-redirect-from
     #   - jekyll-minifier
 
 defaults:
@@ -41,7 +42,7 @@ defaults:
 
 host: 0.0.0.0
 
-include: ["_pages"]
+include: ["_pages", "_redirects"]
 
 sass:
     sass_dir: /assets/stylesheets/_sass

@@ -14,6 +14,7 @@ gem "jekyll", "~> 3.7.4"
 gem "minima", "~> 2.0"
 
 gem 'jekyll-sitemap'
+gem 'jekyll-redirect-from'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
