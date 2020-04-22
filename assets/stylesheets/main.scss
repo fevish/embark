@@ -5,7 +5,11 @@ $baseurl: '{{ site.baseurl }}';
 @import "bootstrap.min";
 @import "style";
 
-
+.time-capsule {
+    border: 2px solid $brandcolor;
+    border-radius: 20px;
+    width: fit-content;
+}
 
 .flex-fix {
     @media (max-width: 992px) {
