@@ -81,7 +81,7 @@ redirect_from:
     </div>
   </div>
 </section>
-
+<!--
 <div>
   <a href="#contact-section" class="bg-primary py-5 d-block">
     <div class="container">
@@ -94,8 +94,28 @@ redirect_from:
             <div class="col-md-2"></div>
             <div class="col-md-2">
         <p class="btn btn-md btn-outline-white mt-3">Book Today</p>
-        </div>
+        </div>        
+      </div>
+    </div>
+  </a>
+</div>
+-->
+
+<div>
+  <a href="{{ site.baseurl }}time-capsule" class="bg-primary py-5 d-block">
+    <div class="container">
+      <div class="row text-white">
+        <div class="col-md-8">
+          <h2>COVID-19 Time Capsule Downloads</h2>
+          <h6>Embark websites proudly hosts the webpage and download links for the <b>Time Capsule by LONG Creations</b> for free. <b>Click here to visit the COVID-19 Time Capsule
+            download page.
+          </b></h6>
         
+            </div>        
+            <div class="col-md-2"></div>
+            <div class="col-md-2">
+        <p class="btn btn-md btn-outline-white mt-3">Time Capsule Downloads</p>
+        </div>        
       </div>
     </div>
   </a>
