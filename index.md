@@ -423,7 +423,7 @@ redirect_from:
               <div class="unit-4-icon mr-4 mb-3"><span class="text-secondary icon-extension"></span></div>
               <div>
                 <h3>Creative Thinkers</h3>
-                <p>We are creative beings by nature, but some of us have the opportunity to express this in thier work more than others. We approach projects
+                <p>We are creative beings by nature, but some of us have the opportunity to express this in their work more than others. We approach projects
                   with a "fresh pair of eyes", and use data driven marketing to produce results.</p>
               </div>
             </div>
