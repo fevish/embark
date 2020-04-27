@@ -1,0 +1,16 @@
+{% include _head.html %}
+{% include _header.html %}
+{% include _menu.html %}
+<head>
+<link rel="canonical" href="{{ page.move_to }}"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url={{ page.move_to }}" />
+</head>
+<body>
+    <h1>Redirecting...</h1>
+      <a href="{{ page.move_to }}">Click here if you are not redirected.<a>
+      <script>location='{{ page.move_to }}'</script>
+</body>
+</html>
+{{ content }}
+{% include _footer.html %}
