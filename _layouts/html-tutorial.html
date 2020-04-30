@@ -1,0 +1,16 @@
+{% include _head.html %}
+<head>
+<link href="/assets/stylesheets/css/prism.css" rel="stylesheet" />
+</head>
+{% include _header.html %}
+{% include _menu.html %}
+
+{{ content }}
+<script src="/assets/js/prism.js"></script>
+<script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
+
+<script>
+    const content = document.querySelector('.main-content');
+    scrollnav.init(content);
+</script>
+{% include _footer.html %}

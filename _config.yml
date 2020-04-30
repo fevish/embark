@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://letsembark.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 s3url: https://s3.letsembark.ca/
+code: <script type="text/plain" class="language-markup line-numbers">
+endcode: </script>
 # Build settings
 markdown: kramdown
 
