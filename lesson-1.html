@@ -1,0 +1,197 @@
+---
+layout: html-tutorial
+published: false
+permalink: html-basics
+sitemap: false
+---
+<div class="site-section" style="margin-top: 100px;">
+    <div class="container main-content">
+        <div class="row">
+            <div class="navi">
+                <h1>The Basics</h1>
+                <p>In this first lesson, we will learn how to use simple text editor tools on your computer to create
+                    the most basic type of website.
+                    In future lessons we will be upgrading to more advanced (and free to use) tools, but for now these
+                    will be sufficient.
+                </p>
+                <p>All of these lessons are meant to be completed on a computer running any version of Windows or Mac
+                    OS.</p>
+
+                <h2>Folder and Text Editor Setup</h2>
+                <p>For the purpose of these lessons, we are going to assume the user or user's supervisor (parent,
+                    sibling, teacher etc.) has a basic understanding on
+                    using their computer's operating system.</p>
+                <p>To begin, we are going to create a new folder on our desktop and call it
+                    <code><b>HTML Lessons</b></code>.
+                </p>
+                <a class="image-link" href="{{ site.tut }}new-folder-embark.jpg"><img
+                        src="{{ site.tut }}new-folder-embark.jpg"></a>
+                <p>Next, we will open up our text editor. If you are using Windows, open <b>Notepad</b>. You can
+                    accomplish this by typing <b>Notepad</b> into your search bar to open a blank notepad.
+                    On Mac, the equivalent is called <b>TextEdit</b>.
+                </p>
+                <p>Once your text editor is open, you should see something similar to this:
+                </p>
+                <a class="image-link" href="{{ site.tut }}embark-notepad.jpg"><img
+                        src="{{ site.tut }}embark-notepad.jpg"></a>
+                <p>Now click <code>File > Save As..</code> and save the file name as <code>index.html</code> in the
+                    folder we created earlier called
+                    <code><b>HTML Lessons</b></code>.
+                    Make sure you indicate <b>Save as type:</b> to <b>All Files (*.*)</b>. </p>
+                <a class="image-link" href="{{ site.tut }}notepad-save-as-embark.jpg"><img
+                        src="{{ site.tut }}notepad-save-as-embark.jpg"></a>
+                <p>You should now see your new <code>HTML</code> file in your lessons folder. Go ahead and open that
+                    file. By default the file should open up in your web browser (Chrome, Edge or Safari etc.). This is
+                    because this is an <code>HTML</code> file, which is a web page file.</p>
+                <p>You probably noticed that your file loaded to a blank white page. We haven't put any code or content
+                    in it yet.. let's fix that!
+                </p>
+                <h6>Keep your web browser open. Minimize it or resize it to fit half your screen.</h6>
+                <h2>
+                    Hello World!
+                </h2>
+                <p>Time to write our first block of <code>HTML</code> code. Right now, when we opened up our HTML
+                    file it loaded in our default web browser. We must also open our file in our text editor to edit
+                    it. Navigate to <code>Desktop > HTML Lessons > index.html</code> and right click on our
+                    <code>index.html</code> file and click <code>Open with > Notepad</code>. If you do not see
+                    Notepad in the list, then select <code>Select another App</code> and locate Notepad.</p>
+                <p>Now that you have your HTML file open in your text editor, we are going to begin writing our
+                    first block of code.</p>
+                <p>Starting from the first line, type the following:</p>
+{{ site.code }}
+<h1>Hello World!</h1>
+{{ site.endcode }}
+                <p>Save your file <code>File > Save</code> and open up your <code>HTML</code> file in your web
+                    browser. If the file is already open in your browser, then click refresh (shortcut:
+                    <code>F5</code>). You should see the following:</p>
+                <a class="image-link" href="{{ site.tut }}first-hello-world-embark.jpg"><img
+                        src="{{ site.tut }}first-hello-world-embark.jpg"></a>
+                <h3>Congratulations! &#x1F973;</h3>
+                <p>You've created your first "Hello World" page.<br> But we're not done yet, keep going!</p>
+
+                <h2>Markup</h2>
+                <p>With both your <code>index.html</code> web page and your text editor open, let's add some proper
+                    elements, tags and markup. First we will add our HTML and BODY elements to our code. Update and
+                    save your
+                    code with the following:</p>
+{{ site.code }}
+<html>
+<body>
+
+    <h1>Hello World!</h1>
+    <p>This is my first website.</p>
+
+</body>
+</html>
+{{ site.endcode }}
+                <p>Result:</p>
+                <div class="result">
+                    <h4>Hello World!</h4>
+                    <p>This is my first website.</p>
+                </div>
+                <p>Look back at your code. Most HTML elements require opening <code>&lt; &gt;</code> and closing
+                    <code>&lt; /&gt;</code> tags.
+                    <ul>
+                        <li><code>&lt;html&gt;</code> is the root element of an HTML page. This element tells the
+                            browser that this is an HTML document and is the container for nearly all other HTML
+                            elements. The <code>html</code> element has opening
+                            <code>&lt;html&gt;</code> and closing <code>&lt;/html&gt;</code> tags. <i>Notice the
+                                order of our elements, how they cascade to mirror themselves, and close with
+                                <code>/</code> appended to the element name.</i></li>
+                        <li><code>&lt;body&gt;</code> is where all of our webpage content lives. Everything between
+                            the opening and closing body tags will be seen visually by the viewer (text, images,
+                            etc.).</li>
+                        <li><code>&lt;h1&gt;</code> is a heading element. It is used for large heading text to
+                            capture attention. Heading elements need opening <code>&lt;h1&gt;</code> and closing
+                            <code>&lt;/h1&gt;</code> tags.</li>
+                        <li><code>&lt;p&gt;</code> is a paragraph element. It is used for most written text in
+                            websites. By now you probably are noticing that most elements require closing
+                            <code>&lt;/ &gt;</code> tags.</li>
+                    </ul>
+                    <p>Modify your code and remove the closing <code>&lt;/h1&gt;</code> tag, then refresh your page
+                        and see the result.</p>
+{{ site.code }}
+<html>
+<body>
+
+<h1>Hello World! -
+<p>This is my first website.</p>
+
+</body>
+</html>
+{{ site.endcode }}
+                    <p>Result:</p>
+                    <div class="result">
+                        <h4>Hello World!
+                            <p>This is my first website.</p>
+                            <p>Closing your tags is important! If you forget to close a tag, it is often VERY
+                                noticable on your webpage.</p>
+                        </h4>
+
+                        <h2>Add a splash of color</h2>
+                        <p>Now that we have created a basic web page, we are going to learn some styling basics.
+                            There are two primary ways to style your website: <code>stylesheets</code> and
+                            <code>inline styles</code>. We will learn about stylesheets in another lesson, for now
+                            we will stick to inline styles.</p>
+                        <p>Inline styling is the most basic way to style elements in a website. Let's go back to our
+                            code and fix our closing H1 tag, and add a bit of color. Add the following to your code:
+                        </p>
+                    </div>
+{{ site.code }}
+<html>
+<body>
+
+<h1 style="color:teal; font-size: 50px;">Hello World!</h1>
+<h1>I am smol.</h1>
+<p>This is my first website.</p>
+
+</body>
+</html>
+{{ site.endcode }}
+
+                <p>Result:</p>
+
+                <div class="result">
+                    <h4 style="color:teal; font-size: 50px;">Hello World!</h4>
+                    <h4>I am smol.</h4>
+                    <p>This is my first website.</p>
+                </div>
+
+                <p>It may not look elegant yet, but you've just learned how to paint with code! Imagine what you
+                    can do once you learn some more styles!</p>
+                <ul>
+                    <li><code>style=" "</code> This tells the tag that we are applying inline styling to it.
+                        Notice the opening and closing apostrophes.
+                    <li><code>color: red;</code> This is a declaration. We have two parts to our declaration:
+                        Propert and Value. <i>color</i> is the property, and <i>red</i> is the value.</li>
+                    <li><code>font-size: 50px;</code> <i>font-size</i> is a property, and <i>50px</i> is a
+                        value. <i>px</i> stands for pixels. Notice the semicolon <code>;</code> at the end of
+                        our declarations. Make sure you always end a declaration with a semicolon.</li>
+                    <li>Did you notice that our inline styling ONLY APPLIES to the single
+                        <code>&lt;h1&gt;</code> element it was applied to? If you want to apply a style to
+                        multiple elements, you can do this with <code>stylesheets</code> which we will learn
+                        about in the next lesson!</li>
+                </ul>
+
+                <h3>Closing Thoughts</h3>
+                <p>Whoa, that's a great start! We just learned how to create a local web page, and the basic
+                    building blocks of HTML.</p>
+                <p>Go ahead and play with your code; try adding some styles to the other elements and see what
+                    happens. Here are a few new styles to try out and see what happens (try different
+                    values):<br><br>
+                    <code>font-style: bold, italic, underline; <br>background-color: yellow; <br>text-align: center, left, right;</code>
+                </p>
+
+                <p>If you got stuck anywhere in this lesson, just scroll back and go over the sections again.
+                    Once you have a comfortable grasp on what you are doing here, then it's time to move on to
+                    the next lesson!
+                    </p>
+
+                <h6>Something to think about: This lesson, this website, <b>even this text you are reading
+                        right now</b> is all created with HTML.</h6>
+
+                <p class="mt-5"><a class="btn btn-primary btn-md" href="">Next Lesson</a></p>
+            </div>
+        </div>
+    </div>
+</div>
