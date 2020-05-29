@@ -26,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://letsembark.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 host: 0.0.0.0
-port: 80
 
 s3url: https://s3.letsembark.ca/
 code: <script type="text/plain" class="language-markup line-numbers">
