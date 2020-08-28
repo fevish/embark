@@ -325,7 +325,7 @@ layout: default
         <div class="unit-4 d-flex">
           <div class="unit-4-icon mr-4"><span class="text-primary icon-laptop2"></span></div>
           <div>
-            <h3>Easy Website Design</h3>
+            <h3>Website Design</h3>
             <h6>Our priority is making the website process easy and stress free for you.</h6>
             <p>We have all the tools to get you started. Simply meet with us to discuss your business's website needs, and we'll take care of the rest!</p> 
             <ul class="list-unstyled ul-check primary">
