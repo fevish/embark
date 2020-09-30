@@ -341,17 +341,17 @@ layout: default
       </div>
       <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
         <div class="unit-4 d-flex">
-          <div class="unit-4-icon mr-4"><span class="text-primary icon-shopping_cart"></span></div>
+          <div class="unit-4-icon mr-4"><span class="text-primary icon-apps"></span></div>
           <div>
-            <h3>eCommerce</h3>
-            <h6>Sell Your Products or Services Online.</h6><p>eCommerce has come a long way in the past few years, and is one of the fastest growing revenue streams for
-              many businesses. We'll create an online store that is incredibly user friendly that your customers will love.
+            <h3>Development</h3>
+            <h6>Oil isn't the only thing Alberta has to offer..</h6>
+            <p>Have an app or web project idea that you need executed? Talk with a local professional.
             </p>
             <ul class="list-unstyled ul-check primary">
-              <li>Sell Products or Services Online</li>
-              <li>Store Hosting and Maintenance</li>
-              <li>User friendly interface</li>
-              <li>Grow your revenue</li>   
+              <li>App Development</li>
+              <li>Turn your website into a mobile app</li>
+              <li>Roadmapping</li>
+              <li>Custom Web Development</li>   
             </ul>  
           </div>
 
