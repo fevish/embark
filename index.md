@@ -451,10 +451,9 @@ layout: default
     </div>
 
     <div class="row">
-      <div class="col-md-3 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-
+      <div class="col-md-6 col-lg-1 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
       </div>
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+      <div class="col-md-6 col-lg-5 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
         <div class="person text-center">
           <img src="assets/images/tw-picture.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
           <h3>Tuomas Wolkowski</h3>
@@ -466,13 +465,30 @@ layout: default
             <!--<li><a href="{{ site.linkedin }}"><span class="icon-linkedin"></span></a></li> -->
             <li><a href="{{ site.instagram }}"><span class="icon-instagram"></span></a></li>
           </ul>
-
         </div>
-
       </div>
-      <div class="col-md-3 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
 
+      <div class="col-md-6 col-lg-5 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+        <div class="person text-center">
+          <img src="assets/images/richard-picture-temp.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+          <h3>Richard Sather Frank</h3>
+          <p class="position text-muted">Full Stack Developer, Etc</p>
+          <p class="mb-4">
+            Blah Blah Blah
+          </p>
+          <ul class="ul-social-circle">
+            <li><a href="{{ site.facebook }}"><span class="icon-facebook"></span></a></li>
+            <li><a href="{{ site.twitter }}"><span class="icon-twitter"></span></a></li>
+            <!--<li><a href="{{ site.linkedin }}"><span class="icon-linkedin"></span></a></li> -->
+            <li><a href="{{ site.instagram }}"><span class="icon-instagram"></span></a></li>
+          </ul>
+        </div>
       </div>
+
+      <div class="col-md-6 col-lg-1 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+      </div>
+
+
     </div>
 
   </div>
