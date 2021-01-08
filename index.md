@@ -87,11 +87,11 @@ layout: default
           <h2>Free 30 Minute Website Consultations</h2>
           <h6><span style="color: #000;font-size: 1.5em;">* </span>With the current recommended social distancing concerning COVID-19 (Coronavirus),
             we are happy to accomodate meetings via phone, video conference, or even Facetime!</h6>
-            </div>        
+            </div>
             <div class="col-md-2"></div>
             <div class="col-md-2">
         <p class="btn btn-md btn-outline-white mt-3">Book Today</p>
-        </div>        
+        </div>
       </div>
     </div>
   </a>
@@ -107,12 +107,12 @@ layout: default
           <h6>Embark websites proudly hosts the webpage and download links for the <b>Time Capsule by LONG Creations</b> for free. <b>Click here to visit the COVID-19 Time Capsule
             download page.
           </b></h6>
-        
-            </div>        
+
+            </div>
             <div class="col-md-2"></div>
             <div class="col-md-2">
         <p class="btn btn-md btn-outline-white mt-3">Time Capsule Downloads</p>
-        </div>        
+        </div>
       </div>
     </div>
   </a>
@@ -138,13 +138,13 @@ layout: default
           <img src="/assets/images/projects/hat-liquor-home.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
             <h2>Hat Liquor</h2>
-            <span class="category">Website Design and Hosting</span>
+            <span class="category">Website Design + Hosting</span>
           </div>
         </a>
       </div>
       <div class="col-md-6 col-lg-4">
-        <a href="/assets/images/projects/haste-home.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/haste-home.jpg" alt="Image" class="img-fluid">
+        <a href="/assets/images/projects/embark-haste-home.jpg" class="media-1" data-fancybox="gallery">
+          <img src="/assets/images/projects/embark-haste-home.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
             <h2>Haste.net</h2>
             <span class="category">Front End Website Design and Development</span>
@@ -162,20 +162,20 @@ layout: default
       </div>
 
       <div class="col-md-6 col-lg-4">
-        <a href="/assets/images/projects/ww-supert.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/ww-supert.jpg" alt="Image" class="img-fluid">
+        <a href="/assets/images/projects/embark-super-t-aviation.jpg" class="media-1" data-fancybox="gallery">
+          <img src="/assets/images/projects/embark-super-t-aviation.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
             <h2>Super T Aviation</h2>
-            <span class="category">Website Management</span>
+            <span class="category">Website Redesign + Hosting</span>
           </div>
         </a>
       </div>
       <div class="col-md-6 col-lg-4">
-        <a href="/assets/images/projects/ww-barxh.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/ww-barxh.jpg" alt="Image" class="img-fluid">
+        <a href="/assets/images/projects/embark-leaf-cool.jpg" class="media-1" data-fancybox="gallery">
+          <img src="/assets/images/projects/embark-leaf-cool.jpg" alt="Image" class="img-fluid">
           <div class="media-1-content">
-            <h2>Bar XH Sales</h2>
-            <span class="category">Website Management</span>
+            <h2>Leaf Cool</h2>
+            <span class="category">Website Design + Hosting</span>
           </div>
         </a>
       </div>
@@ -327,13 +327,13 @@ layout: default
           <div>
             <h3>Website Design</h3>
             <h6>Our priority is making the website process easy and stress free for you.</h6>
-            <p>We have all the tools to get you started. Simply meet with us to discuss your business's website needs, and we'll take care of the rest!</p> 
+            <p>We have all the tools to get you started. Simply meet with us to discuss your business's website needs, and we'll take care of the rest!</p>
             <ul class="list-unstyled ul-check primary">
               <li>Responsive Design</li>
               <li>Fast turn around time</li>
               <li>Design around your branding guidelines</li>
-              <li>Uniform look for consistent marketing</li>   
-            </ul>              
+              <li>Uniform look for consistent marketing</li>
+            </ul>
           </div>
 
         </div>
@@ -351,8 +351,8 @@ layout: default
               <li>Sell Products or Services Online</li>
               <li>Store Hosting and Maintenance</li>
               <li>User friendly interface</li>
-              <li>Grow your revenue</li>   
-            </ul>  
+              <li>Grow your revenue</li>
+            </ul>
           </div>
 
         </div>
@@ -369,8 +369,8 @@ layout: default
               <li>SSL Website Hosting</li>
               <li>Secure Socket Layer Encryption</li>
               <li>Domain Name + Renewal</li>
-              <li>Website Maintenance</li>   
-            </ul>         
+              <li>Website Maintenance</li>
+            </ul>
           </div>
 
         </div>
