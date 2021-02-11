@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/images/embark-ogmeta-img.jpg
 ---
 
 <div class="site-blocks-cover overlay" style="background-image: url({{ site.baseurl }}/assets/images/bg-3.jpg);"
