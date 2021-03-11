@@ -1,18 +1,11 @@
----
-layout: default
-image: /assets/images/embark-ogmeta-img.jpg
----
-
-<div class="site-blocks-cover overlay" style="background-image: url({{ site.baseurl }}assets/images/bg-3.jpg);"
-  data-aos="fade" data-stellar-background-ratio="0.5">
+I"?W<div class="site-blocks-cover overlay" style="background-image: url(/assets/images/bg-3.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
   <div class="container">
     <div class="row align-items-center justify-content-center text-center">
       <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
         <div class="row justify-content-center mb-4">
           <div class="col-md-8 text-center main-menu">
-            <h1>Let's Embark on a <br><span class="typed-words"></span></h1>
-            <p class="lead mb-5">Free 30 Minute Website Consultations. Remote or <a href="#contact-section"
-                target="_blank">In Person.*</a></p>
+            <h1>Let's Embark on a <br /><span class="typed-words"></span></h1>
+            <p class="lead mb-5">Free 30 Minute Website Consultations. Remote or <a href="#contact-section" target="_blank">In Person.*</a></p>
             <div><a href="#contact-section" class="btn btn-primary btn-md">Let's Meet</a></div>
           </div>
         </div>
@@ -72,7 +65,7 @@ image: /assets/images/embark-ogmeta-img.jpg
           <ul class="list-unstyled ul-check primary">
             <li>Social Media Advertising</li>
             <li>Campaign Planning</li>
-            <li>Analytics & Data-Driven Marketing</li>
+            <li>Analytics &amp; Data-Driven Marketing</li>
           </ul>
         </div>
       </div>
@@ -100,7 +93,7 @@ image: /assets/images/embark-ogmeta-img.jpg
 -->
 
 <div>
-  <a href="{{ site.baseurl }}time-capsule" class="bg-primary py-5 d-block">
+  <a href="/time-capsule" class="bg-primary py-5 d-block">
     <div class="container">
       <div class="row text-white">
         <div class="col-md-8">
@@ -136,7 +129,7 @@ image: /assets/images/embark-ogmeta-img.jpg
     <div class="row">
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/hat-liquor-home.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/hat-liquor-home.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/hat-liquor-home.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Hat Liquor</h2>
             <span class="category">Website Design + Hosting</span>
@@ -145,7 +138,7 @@ image: /assets/images/embark-ogmeta-img.jpg
       </div>
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/embark-haste-home.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/embark-haste-home.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/embark-haste-home.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Haste.net</h2>
             <span class="category">Front End Website Design and Development</span>
@@ -154,7 +147,7 @@ image: /assets/images/embark-ogmeta-img.jpg
       </div>
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/joyride-home.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/joyride-home.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/joyride-home.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Joyride</h2>
             <span class="category">Sub-contract Web Design</span>
@@ -164,7 +157,7 @@ image: /assets/images/embark-ogmeta-img.jpg
 
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/embark-super-t-aviation.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/embark-super-t-aviation.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/embark-super-t-aviation.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Super T Aviation</h2>
             <span class="category">Website Redesign + Hosting</span>
@@ -173,7 +166,7 @@ image: /assets/images/embark-ogmeta-img.jpg
       </div>
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/embark-leaf-cool.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/embark-leaf-cool.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/embark-leaf-cool.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Leaf Cool</h2>
             <span class="category">Website Design + Hosting</span>
@@ -182,7 +175,7 @@ image: /assets/images/embark-ogmeta-img.jpg
       </div>
       <div class="col-md-6 col-lg-4">
         <a href="/assets/images/projects/ww-rastaman.jpg" class="media-1" data-fancybox="gallery">
-          <img src="/assets/images/projects/ww-rastaman.jpg" alt="Image" class="img-fluid">
+          <img src="/assets/images/projects/ww-rastaman.jpg" alt="Image" class="img-fluid" />
           <div class="media-1-content">
             <h2>Canada Legalization Launch Page</h2>
             <span class="category">Landing Page Concept</span>
@@ -267,7 +260,7 @@ image: /assets/images/embark-ogmeta-img.jpg
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-          <div><img src="assets/images/joyride-logo.jpg" alt="Image" class="w-50 img-fluid mb-3 bg-black"></div>
+          <div><img src="assets/images/joyride-logo.jpg" alt="Image" class="w-50 img-fluid mb-3 bg-black" /></div>
           <p>Matt Konigsmark | Co-Founder, <a href="https://wearejoyride.com">Joyride</a></p>
         </figure>
 
@@ -286,7 +279,7 @@ image: /assets/images/embark-ogmeta-img.jpg
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-          <div><img src="assets/images/haste-logo.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+          <div><img src="assets/images/haste-logo.jpg" alt="Image" class="w-50 img-fluid mb-3" /></div>
           <p>Taric Mirza | Co-Founder, <a href="https://haste.net">Haste.net</a></p>
         </figure>
 
@@ -303,7 +296,7 @@ image: /assets/images/embark-ogmeta-img.jpg
         </blockquote>
 
         <figure class="mb-4 d-flex align-items-center justify-content-center">
-          <div><img src="assets/images/long-logo.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+          <div><img src="assets/images/long-logo.jpg" alt="Image" class="w-50 img-fluid mb-3" /></div>
           <p>Natalie Long | Owner, <a href="https://longcreations.ca">LONG Creations</a></p>
         </figure>
 
@@ -388,7 +381,7 @@ image: /assets/images/embark-ogmeta-img.jpg
     <div class="row mb-5">
 
       <div class="col-md-5 ml-auto mb-5 order-md-2" data-aos="fade">
-        <img src="assets/images/bus-stop.jpg" alt="Image" class="img-fluid rounded">
+        <img src="assets/images/bus-stop.jpg" alt="Image" class="img-fluid rounded" />
       </div>
       <div class="col-md-6 order-md-1" data-aos="fade">
 
@@ -457,15 +450,15 @@ image: /assets/images/embark-ogmeta-img.jpg
       </div>
       <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
         <div class="person text-center">
-          <img src="assets/images/tw-picture.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+          <img src="assets/images/tw-picture.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5" />
           <h3>Tuomas Wolkowski</h3>
           <p class="position text-muted">Owner, Father, Husband</p>
           <p class="mb-4">Father of three, Tuomas is a family man and aspiring entrepreneur with deep roots in tech, website design and marketing.</p>
           <ul class="ul-social-circle">
-            <li><a href="{{ site.facebook }}"><span class="icon-facebook"></span></a></li>
-            <li><a href="{{ site.twitter }}"><span class="icon-twitter"></span></a></li>
-            <!--<li><a href="{{ site.linkedin }}"><span class="icon-linkedin"></span></a></li> -->
-            <li><a href="{{ site.instagram }}"><span class="icon-instagram"></span></a></li>
+            <li><a href="https://www.facebook.com/embarkwebsites"><span class="icon-facebook"></span></a></li>
+            <li><a href="https://www.twitter.com/fevish"><span class="icon-twitter"></span></a></li>
+            <!--<li><a href="https://www.linkedin.com/company/embarkwebsites"><span class="icon-linkedin"></span></a></li> -->
+            <li><a href="https://www.instagram.com/embarkwebsites"><span class="icon-instagram"></span></a></li>
           </ul>
 
         </div>
@@ -478,5 +471,86 @@ image: /assets/images/embark-ogmeta-img.jpg
 
   </div>
 </div>
-{% include _contact.html %}
 
+<section class="site-section bg-light" id="contact-section">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-12 text-center">
+          <h2 class="text-black h1 site-section-heading">Contact Us</h2>
+  
+        </div>
+      </div>
+  
+      <div class="row">
+        <div class="col-md-7 mb-5">
+  
+          <form name="Homepage Contact" action="POST" data-netlify="true" class="p-5 bg-white">
+  
+            <h2 class="h4 text-black mb-5">Contact Form</h2>
+  
+            <div class="row form-group">
+  
+              <div class="col-md-6 mb-3 mb-md-0">
+                <label class="text-black" for="first-name">First Name</label>
+                <input type="text" name="first-name" class="form-control" />
+              </div>
+              <div class="col-md-6">
+                <label class="text-black" for="last-name">Last Name</label>
+                <input type="text" name="last-name" class="form-control" />
+              </div>
+            </div>
+  
+            <div class="row form-group">
+  
+              <div class="col-md-12">
+                <label class="text-black" for="email">Email</label>
+                <input type="email" name="email" class="form-control" />
+              </div>
+            </div>
+  
+            <div class="row form-group">
+  
+              <div class="col-md-12">
+                <label class="text-black" for="subject">Subject</label>
+                <input type="subject" name="subject" class="form-control" />
+              </div>
+            </div>
+  
+            <div class="row form-group">
+  
+              <div class="col-md-12">
+                <label class="text-black" for="message">Message</label>
+                <textarea name="message" cols="30" rows="7" class="form-control" placeholder="Write your questions or message here... "></textarea>
+              </div>
+            </div>
+  
+            <div class="row form-group">
+  
+              <div class="col-md-12">
+                <input type="submit" value="Send Message" class="btn btn-primary btn-md text-white" />
+              </div>
+            </div>
+  
+          </form>
+        </div>
+        <div class="col-md-5">
+          <div class="p-4 mb-3 bg-white">
+            <blockquote>
+            <p>* In light of COVID-19, we are happy to accomodate meetings via phone, video conference, or even Facetime!</p>
+              <p>Please contact us today and let's discuss your website together.
+            </p>
+            </blockquote>
+
+            <p class="mb-0 font-weight-bold">Phone</p>
+            <p class="mb-4"><a href="tel:1-587-997-1511">+1 (587) 997-1511 </a></p>
+  
+            <p class="mb-0 font-weight-bold">Email Address</p>
+            <p class="mb-0"><a href="mailto:hello@letsembark.ca">hello@letsembark.ca</a></p>
+  
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+:ET

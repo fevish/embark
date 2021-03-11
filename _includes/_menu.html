@@ -3,20 +3,20 @@
       <div class="row align-items-center">
 
         <div class="col-11 col-xl-2">
-          <h1 class="mb-0 site-logo"><a href="/" class="text-black h2 mb-0"><img src="{{ site.baseurl }}/assets/images/embark-logo.png" style="max-height: 35px;"><span
+          <h1 class="mb-0 site-logo"><a href="/" class="text-black h2 mb-0"><img src="{{ site.baseurl }}assets/images/embark-logo.png" style="max-height: 35px;"><span
                 class="text-primary"></span> </a></h1>
         </div>
         <div class="col-12 col-md-10 d-none d-xl-block">
           <nav class="site-navigation position-relative text-right" role="navigation">
 
             <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-              <li><a href={% if page.url == '/' %}"#home-section"{% else %}"{{ site.baseurl }}/#home-section"{% endif %} class="nav-link">Home</a></li>
-              <li><a href={% if page.url == '/' %}"#work-section"{% else %}"{{ site.baseurl }}/#work-section"{% endif %} class="nav-link">Projects</a></li>
+              <li><a href={% if page.url == '/' %}"#home-section"{% else %}"{{ site.baseurl }}#home-section"{% endif %} class="nav-link">Home</a></li>
+              <li><a href={% if page.url == '/' %}"#work-section"{% else %}"{{ site.baseurl }}#work-section"{% endif %} class="nav-link">Projects</a></li>
               <li>
-                <a href={% if page.url == '/' %}"#services-section"{% else %}"{{ site.baseurl }}/#services-section"{% endif %} class="nav-link">Services</a>
+                <a href={% if page.url == '/' %}"#services-section"{% else %}"{{ site.baseurl }}#services-section"{% endif %} class="nav-link">Services</a>
               </li>
               <li>
-                <a href={% if page.url == '/' %}"#about-section"{% else %}"{{ site.baseurl }}/#about-section"{% endif %} class="nav-link">About Us</a>
+                <a href={% if page.url == '/' %}"#about-section"{% else %}"{{ site.baseurl }}#about-section"{% endif %} class="nav-link">About Us</a>
               </li>
               <!-- Dropdown Menu
               <li class="has-children">
@@ -26,8 +26,8 @@
                   <li><a href="#team-section">Our Team</a></li>
                 </ul>
               </li>
-            -->       
-              <li><a href={% if page.url == '/' %}"#contact-section"{% else %}"{{ site.baseurl }}/#contact-section"{% endif %} class="nav-link">Contact</a></li>
+            -->
+              <li><a href={% if page.url == '/' %}"#contact-section"{% else %}"{{ site.baseurl }}#contact-section"{% endif %} class="nav-link">Contact</a></li>
               <li><a href="{{ site.baseurl}}time-capsule" class="btn btn-primary btn-md">Time Capsule</a></li>
             </ul>
           </nav>
